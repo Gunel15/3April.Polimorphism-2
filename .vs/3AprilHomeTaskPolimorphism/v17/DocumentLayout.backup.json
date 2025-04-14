@@ -32,9 +32,10 @@
               "RelativeDocumentMoniker": "3AprilHomeTaskPolimorphism\\ICodeAcademy.cs",
               "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\3AprilHomeTaskPolimorphism\\3AprilHomeTaskPolimorphism\\ICodeAcademy.cs",
               "RelativeToolTip": "3AprilHomeTaskPolimorphism\\ICodeAcademy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T20:47:38.953Z"
+              "WhenOpened": "2025-04-02T20:47:38.953Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -42,11 +43,12 @@
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\V\u0026V\\source\\repos\\3AprilHomeTaskPolimorphism\\3AprilHomeTaskPolimorphism\\Student.cs",
               "RelativeDocumentMoniker": "3AprilHomeTaskPolimorphism\\Student.cs",
-              "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\3AprilHomeTaskPolimorphism\\3AprilHomeTaskPolimorphism\\Student.cs",
-              "RelativeToolTip": "3AprilHomeTaskPolimorphism\\Student.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\3AprilHomeTaskPolimorphism\\3AprilHomeTaskPolimorphism\\Student.cs*",
+              "RelativeToolTip": "3AprilHomeTaskPolimorphism\\Student.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T20:31:07.377Z"
+              "WhenOpened": "2025-04-02T20:31:07.377Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,7 +58,7 @@
               "RelativeDocumentMoniker": "3AprilHomeTaskPolimorphism\\Program.cs",
               "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\3AprilHomeTaskPolimorphism\\3AprilHomeTaskPolimorphism\\Program.cs",
               "RelativeToolTip": "3AprilHomeTaskPolimorphism\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T20:30:31.343Z",
               "EditorCaption": ""

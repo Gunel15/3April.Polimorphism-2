@@ -10,6 +10,6 @@ namespace _3AprilHomeTaskPolimorphism
     {
         public string CodeEmail { get; set; }
 
-        void GenerateMail(string name,string surname,int id);
+        void GenerateMail();
     }
 }

@@ -6,33 +6,30 @@ using System.Threading.Tasks;
 
 namespace _3AprilHomeTaskPolimorphism
 {
-    abstract class Student : ICodeAcademy
+    public class Student : ICodeAcademy
     {
         public static int Count = 0;
-        public int Id;
-        public string Name;
-        public string Surname;
+        public int Id { get; private set; }
+        public string Name { get; set; }
+        public string Surname { get; set; }
+        public string CodeEmail { get; set; }
+         
 
-        protected Student()
+        public Student(string name,string surname)
         {
             Id = ++Count;
-        }
-
-        public string CodeEmail { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-
-        public static void CheckName(string name)
-        {
-
-        }
-
-
-        public void GenerateMail(string name, string surname, int id)
-        {
             Name = name;
             Surname = surname;
-            Id = id;
-            string combineWords = Name + "." + Surname;
-            Console.WriteLine(combineWords);
+            GenerateMail();
         }
+
+        public void GenerateMail()
+        {
+            CodeEmail = Name.ToLower() + "." + Surname.ToLower() + Id + "@code.edu.az";
+            Console.WriteLine(CodeEmail);
+        }
+
+        //ve ya ayrica showinfo methodu da yaradib codemaili-i consola vermeden hemin metodun icinde butun melumatlari consola vererdik
+        
     }
 }

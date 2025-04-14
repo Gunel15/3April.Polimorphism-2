@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3AprilHomeTaskPolimorphism")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5175a10675bb04d296f06993e758ffa9ef78e352")]
 [assembly: System.Reflection.AssemblyProductAttribute("3AprilHomeTaskPolimorphism")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3AprilHomeTaskPolimorphism")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

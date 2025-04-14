@@ -1,0 +1,15 @@
+C:\Users\V&V\source\repos\3AprilHomeTaskPolimorphism\3AprilHomeTaskPolimorphism\bin\Debug\net8.0\3AprilHomeTaskPolimorphism.exe
+C:\Users\V&V\source\repos\3AprilHomeTaskPolimorphism\3AprilHomeTaskPolimorphism\bin\Debug\net8.0\3AprilHomeTaskPolimorphism.deps.json
+C:\Users\V&V\source\repos\3AprilHomeTaskPolimorphism\3AprilHomeTaskPolimorphism\bin\Debug\net8.0\3AprilHomeTaskPolimorphism.runtimeconfig.json
+C:\Users\V&V\source\repos\3AprilHomeTaskPolimorphism\3AprilHomeTaskPolimorphism\bin\Debug\net8.0\3AprilHomeTaskPolimorphism.dll
+C:\Users\V&V\source\repos\3AprilHomeTaskPolimorphism\3AprilHomeTaskPolimorphism\bin\Debug\net8.0\3AprilHomeTaskPolimorphism.pdb
+C:\Users\V&V\source\repos\3AprilHomeTaskPolimorphism\3AprilHomeTaskPolimorphism\obj\Debug\net8.0\3AprilHomeTaskPolimorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V&V\source\repos\3AprilHomeTaskPolimorphism\3AprilHomeTaskPolimorphism\obj\Debug\net8.0\3AprilHomeTaskPolimorphism.AssemblyInfoInputs.cache
+C:\Users\V&V\source\repos\3AprilHomeTaskPolimorphism\3AprilHomeTaskPolimorphism\obj\Debug\net8.0\3AprilHomeTaskPolimorphism.AssemblyInfo.cs
+C:\Users\V&V\source\repos\3AprilHomeTaskPolimorphism\3AprilHomeTaskPolimorphism\obj\Debug\net8.0\3AprilHomeTaskPolimorphism.csproj.CoreCompileInputs.cache
+C:\Users\V&V\source\repos\3AprilHomeTaskPolimorphism\3AprilHomeTaskPolimorphism\obj\Debug\net8.0\3AprilHomeTaskPolimorphism.sourcelink.json
+C:\Users\V&V\source\repos\3AprilHomeTaskPolimorphism\3AprilHomeTaskPolimorphism\obj\Debug\net8.0\3AprilHomeTaskPolimorphism.dll
+C:\Users\V&V\source\repos\3AprilHomeTaskPolimorphism\3AprilHomeTaskPolimorphism\obj\Debug\net8.0\refint\3AprilHomeTaskPolimorphism.dll
+C:\Users\V&V\source\repos\3AprilHomeTaskPolimorphism\3AprilHomeTaskPolimorphism\obj\Debug\net8.0\3AprilHomeTaskPolimorphism.pdb
+C:\Users\V&V\source\repos\3AprilHomeTaskPolimorphism\3AprilHomeTaskPolimorphism\obj\Debug\net8.0\3AprilHomeTaskPolimorphism.genruntimeconfig.cache
+C:\Users\V&V\source\repos\3AprilHomeTaskPolimorphism\3AprilHomeTaskPolimorphism\obj\Debug\net8.0\ref\3AprilHomeTaskPolimorphism.dll
